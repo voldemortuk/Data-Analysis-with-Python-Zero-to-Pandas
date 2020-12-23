@@ -74,6 +74,6 @@ Answering questions and making inferences
 
 
 ### Certificate of completion!
-![certificate](https://jovian.ai/certificate/MFQTGNBUHA)
-
+![certificate](https://github.com/voldemortuk/Data-Analysis-with-Python-Zero-to-Pandas/blob/main/images/Screenshot%202020-12-23%20at%202.15.47%20PM.png)
+The certificate can verified [here](https://jovian.ai/certificate/MFQTGNBUHA)
 
