@@ -67,11 +67,13 @@ Answering questions and making inferences
 
 
 ### Final Project
-Exploratory Data Analysis on [TV Shows and Movies listed on Netflix](https://www.kaggle.com/shivamb/netflix-shows)   
 
 [***Exploratory Data Analysis on Netflix TV Shows and MoviesDataset***](https://jovian.ml/utkarsh02dec/netflix-tv-shows-and-movies)  
 
+[Dataset](https://www.kaggle.com/shivamb/netflix-shows)   
+
+
 ### Certificate of completion!
-![certificate](https://github.com/voldemortuk/Data-Analysis-with-Python-Zero-to-Pandas/blob/main/images/Screenshot%202020-12-23%20at%202.15.47%20PM.png)
+![certificate](https://jovian.ai/certificate/MFQTGNBUHA)
 
 
