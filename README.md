@@ -72,6 +72,6 @@ Exploratory Data Analysis on [TV Shows and Movies listed on Netflix](https://www
 [***Exploratory Data Analysis on Netflix TV Shows and MoviesDataset***](https://jovian.ml/utkarsh02dec/netflix-tv-shows-and-movies)  
 
 ### Certificate of completion!
-![certificate](https://github.com/voldemortuk/Data-Analysis-with-Python-Zero-to-Pandas/blob/main/images/DataAnalysiswithPython.pdf)
+![certificate](https://github.com/voldemortuk/Data-Analysis-with-Python-Zero-to-Pandas/blob/main/images/Screenshot%202020-12-23%20at%202.15.47%20PM.png)
 
 
