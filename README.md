@@ -1,5 +1,5 @@
 # Data Analysis with Python: Zero to Pandas
-This repository documents my work done during the [Data Analysis with Python: Zero to Pandas](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas) based on Pytorch and offered from Jovian.ml, the lessons were streamed on the Freecodecamp youtube channel, [my Jovian profile](https://jovian.ai/utkarsh02dec) contains all the notebooks written during the course.
+This repository documents my work done during the [Data Analysis with Python: Zero to Pandas](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas) based on Python and offered from Jovian.ml, the lessons were streamed on the Freecodecamp youtube channel, [my Jovian profile](https://jovian.ai/utkarsh02dec) contains all the notebooks written during the course.
 
 ### The course was composed of six lessons and 4 projects
 
