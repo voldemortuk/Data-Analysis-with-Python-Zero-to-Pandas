@@ -1,60 +1,77 @@
-# Pytorch: From Zero to GANs
-This repository documents my work done during the [D course]() based on Pytorch and offered from Jovian.ml, the lessons were streamed on the Freecodecamp youtube channel, [my Jovian profile](https://jovian.ml/federico-abss) contains all the notebooks written during the course.
+# Data Analysis with Python: Zero to Pandas
+This repository documents my work done during the [Data Analysis with Python: Zero to Pandas](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas) based on Pytorch and offered from Jovian.ml, the lessons were streamed on the Freecodecamp youtube channel, [my Jovian profile](https://jovian.ai/utkarsh02dec) contains all the notebooks written during the course.
 
-the course was composed of six lessons and 5 projects
+### The course was composed of six lessons and 4 projects
 
-### Module 1: PyTorch Basics - Tensors & Gradients 
-* Introduction to Jupyter notebooks & Data Science in Python 
-* Tensor operations and gradient computations 
-* What is Linear Regression & Gradient Descent
-* Linear Regression from scratch using Tensor operations 
-* Weights, biases and the mean squared error loss function 
-* Gradient descent and model training with PyTorch Autograd 
-* Linear Regression using PyTorch built-ins (nn.Linear, nn.functional etc.) 
+## Lesson 1 - Introduction to Programming with Python
+    Course overview & curriculum walkthrough
+    First steps with Python and Jupyter notebooks
+    A quick tour of variables and data types
+    Branching with conditional statements and loops
 
-[***First Assignment: Exploring Pytorch***](https://jovian.ml/federico-abss/01-tensor-operations)  
-[Medium blogpost about the assignment](https://medium.com/@federicomannucci_31459/exploring-pytorch-in-5-functions-39eb96cc0180)
+## Lesson 2 - Next Steps with Python
+    Branching with conditional statements and loops
+    Write reusable code with Functions
+    Working with the OS & Filesystem
+    Assignment and course forum walkthrough
+    
+## Assignment 1 - Python Basics Practice
+    Solve word problems using variables & arithmetic operations
+    Manipulate data types using methods & operators
+    Use branching and iterations to translate ideas into code
+    Explore the documentation and get help from the community
 
-### Module 2: Stocastic Linear Regression & Working With Pictures
-* Converting images into Input that a ML Model can use
-* Working with images from the MNIST dataset 
-* Training and validation dataset creation 
-* Softmax function and categorical cross entropy loss 
-* Model training, evaluation and sample predictions 
+[***Assignment 1 - Python Basics Practice***](https://jovian.ml/utkarsh02dec/python-practice-assignment)  
 
-[***Second Assignment: Creating a ML Model***](https://jovian.ml/federico-abss/02-insurance-linear-regression)  
+## Lesson 3 - Numerical Computing with Numpy
+    Going from Python lists to Numpy arrays
+    Working with multi-dimensional arrays
+    Array operations, slicing and broadcasting
+    Working with CSV data files
 
-### Module 3: Feedforward Neural Networks & GPUs
-* Working with cloud GPU platforms like Kaggle & Colab 
-* Creating a multilayer neural network using nn.Module 
-* Activation function, non-linearity and universal approximation theorem 
-* Moving datasets and models to the GPU for faster training 
+## Assignment 2 - Numpy Array Operations
+    Explore the Numpy documentation website
+    Demonstrate usage 5 numpy array operations
+    Publish a Jupyter notebook with explanations
+    Share your work with the course community
 
-[***Third Assignment: Creating a Multilayered Network***](https://jovian.ml/federico-abss/03-cifar10-feedforward/v/17)  
+[***Assignment 2 - Numpy Array Operations***](https://jovian.ml/utkarsh02dec/numpy-array-operations)  
 
-### Module 4: Image Classiﬁcation using Convolutional Neural Networks 
-* Working with cloud GPU platforms like Kaggle & Colab 
-* Creating a multilayer neural network using nn.Module 
-* Introduction to Convolutions, kernels & features maps 
-* Activation function, non-linearity and universal approximation theorem 
+## Lesson 4 - Analyzing Tabular Data with Pandas
+    Reading and writing CSV data with Pandas
+    Querying, filtering and sorting data frames
+    Grouping and aggregation for data summarization
+    Merging and joining data from multiple sources
+## Assignment 3 - Pandas Practice
+    Create data frames from CSV files
+    Query and index operations on data frames
+    Group, merge and aggregate data frames
+    Fix missing and invalid values in data
+[***Assignment 3 - Pandas Practice***](	https://jovian.ml/utkarsh02dec/pandas-practice-assignment) 
+## Lesson 5 - Visualization with Matplotlib and Seaborn
+    Basic visualizations with Matplotlib
+    Advanced visualizations with Seaborn
+    Tips for customizing and styling charts
+    Plotting images and grids of charts
+## Course Project - Exploratory Data Analysis
+    Find a real-world dataset of your choice online
+    Use Numpy & Pandas to parse, clean & analyze data
+    Use Matplotlib & Seaborn to create visualizations
+    Ask and answer interesting questions about the data
 
-### Module 5: Data Augmentation, Regularization and Residual Networks 
-* Improving the dataset using data normalization and data augmentation 
-* Improving the model using residual connections and batch normalization 
-* Improving the training loop using learning rate annealing, weight decay and gradient clip 
-* Underﬁtting, overﬁtting and techniques to improve model performance 
+## Lesson 6 - Exploratory Data Analysis - A Case Study
+Finding a good real-world dataset for EDA
+Data loading, cleaning and preprocessing
+Exploratory analysis and visualization
+Answering questions and making inferences
 
-### Module 6: Image Generation using Generative Adverserial Networks (GANs) 
-* Introduction to generative modeling and application of GANs 
-* Creating generator and discriminator neural networks  
-* Generating and evaluating fake images of handwritten digits 
-* Training the generator and discriminator in tandem and visualizing results 
 
 ### Final Project
-Linear regression model built on the [WHO Life Expectancy dataset](https://www.kaggle.com/kumarajarshi/life-expectancy-who) to predict Life Expectancy.  
+Exploratory Data Analysis on [TV Shows and Movies listed on Netflix](https://www.kaggle.com/shivamb/netflix-shows)   
 
-[***Using AI to predict Life Expectancy***](https://jovian.ml/federico-abss/life-expectancy-linear)  
-[Medium Blogpost about the final project](https://medium.com/@federicomannucci_31459/how-long-can-you-expect-to-live-computers-can-answer-eaa9667451ff)
+[***Exploratory Data Analysis on Netflix TV Shows and MoviesDataset***](https://jovian.ml/utkarsh02dec/netflix-tv-shows-and-movies)  
 
 ### Certificate of completion!
-![certificate](/images/Pytorch%20Certificate-1.png)
+![certificate](https://drive.google.com/drive/u/0/folders/1cP2zewx8ikOO6JYtscLJyN3wdrG9nSKZ)
+
+
